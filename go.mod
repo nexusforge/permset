@@ -1,3 +1,3 @@
-module github.com/jacobalberty/permset
+module github.com/nexusforge/permset
 
 go 1.17
